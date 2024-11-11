@@ -1,6 +1,6 @@
 from telethon import events 
 import phoenix.client
-from FINAL import emojify
+from phoenix import emojify
 client = phoenix.client.client
 
 
